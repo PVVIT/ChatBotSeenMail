@@ -1,4 +1,5 @@
 Các bước để khởi chạy
+
 Bước 1: Clone dự án về máy
 git clone <đường-dẫn-kho-chứa-github-của-bạn>
 cd <tên-thư-mục-dự-án>
